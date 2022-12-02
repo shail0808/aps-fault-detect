@@ -16,3 +16,5 @@ python main.py
 ### Downloading Dataset
 
 wget url 
+
+Updating from terminal 
